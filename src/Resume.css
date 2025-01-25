@@ -1,0 +1,25 @@
+.resume-section {
+    padding: 50px 20px;
+    text-align: center;
+    background-color: #f9f9f9; /* Optional for contrast */
+  }
+  
+  .resume-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .resume-viewer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .resume-iframe {
+    width: 80%; /* Adjust the width for larger view */
+    height: 80vh; /* Use viewport height for responsiveness */
+    border: none;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Optional shadow */
+    border-radius: 8px; /* Optional rounded corners */
+  }
+  

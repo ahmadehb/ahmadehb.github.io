@@ -1,0 +1,49 @@
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+  }
+  
+  .project-card {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.3s, box-shadow 0.3s;
+  }
+  
+  .project-card:hover {
+    transform: scale(1.05); /* Enlarge the entire card */
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
+  }
+  
+  .project-card img {
+    width: 500px; /* Explicitly set the maximum width */
+    height: auto; /* Maintain the original aspect ratio */
+    max-height: 500px; /* Limit the height for uniformity */
+    border-radius: 8px; /* Rounded corners for aesthetics */
+    margin-bottom: 10px; /* Add spacing below the image */
+    object-fit: contain; /* Ensures the image is fully visible within the set dimensions */
+  }
+  
+  .project-card:hover img {
+    transform: scale(1.05); /* Slightly enlarge the image on hover */
+  }
+  
+  .project-card-content {
+    text-align: center;
+  }
+  
+  .project-card-content h3 {
+    font-size: 1.5rem;
+    margin: 10px 0;
+    color: #333;
+  }
+  
+  .project-card-content p {
+    font-size: 1rem;
+    color: #555;
+  }
+  

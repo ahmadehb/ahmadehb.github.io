@@ -1,0 +1,16 @@
+.lab-section {
+    margin-left: 220px; /* Adjust for sidebar */
+    padding: 50px 20px;
+    background-color: #ffffff;
+  }
+  
+  .lab-section h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  
+  .lab-section p {
+    font-size: 1.2rem;
+    color: #555;
+  }
+  
