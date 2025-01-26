@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d7f04fa.css",
-    "main.js": "/static/js/main.c7c2c0ca.js",
+    "main.css": "/static/css/main.e4689be5.css",
+    "main.js": "/static/js/main.05dde38c.js",
     "static/js/488.21a3b654.chunk.js": "/static/js/488.21a3b654.chunk.js",
     "static/media/ImageMe.JPG": "/static/media/ImageMe.c1d5a8a7ec056f8c2267.JPG",
     "static/media/SharedImage.png": "/static/media/SharedImage.3f1d170e23bd7157ae45.png",
-    "static/media/resume.pdf": "/static/media/resume.9390174128b300042389.pdf",
+    "static/media/resume.pdf": "/static/media/resume.edba9f1193cdfb7bd566.pdf",
     "static/media/output.png": "/static/media/output.3df74b61897437b04a67.png",
     "static/media/Bioinformatics.jpeg": "/static/media/Bioinformatics.6a0ad2260a889945951f.jpeg",
     "index.html": "/index.html",
-    "main.5d7f04fa.css.map": "/static/css/main.5d7f04fa.css.map",
-    "main.c7c2c0ca.js.map": "/static/js/main.c7c2c0ca.js.map",
+    "main.e4689be5.css.map": "/static/css/main.e4689be5.css.map",
+    "main.05dde38c.js.map": "/static/js/main.05dde38c.js.map",
     "488.21a3b654.chunk.js.map": "/static/js/488.21a3b654.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d7f04fa.css",
-    "static/js/main.c7c2c0ca.js"
+    "static/css/main.e4689be5.css",
+    "static/js/main.05dde38c.js"
   ]
 }
